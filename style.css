@@ -1,0 +1,42 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    text-align: center;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40px
+    list-style-type: none;
+    color: black;
+}
+ p{
+    display: flex;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    
+}
+.sec-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: red;
+}
+
+p{
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align: center;
+}
+div p{
+    color: black;
+}
+div h1{
+    text-align: center;}
